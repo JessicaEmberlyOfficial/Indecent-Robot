@@ -1,2 +1,2 @@
 # Indecent Robot
-A video game by Jessica Emberly.
+An upcoming video game by Jessica Emberly.
